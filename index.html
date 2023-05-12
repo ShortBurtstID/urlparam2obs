@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<!-- sb.id -->
+<head>
+  <title>SB</title>
+</head>
+  <body>
+    <h1><span id="konten"></span></h1>
+    <script type="text/javascript">
+      const params = new URLSearchParams(window.location.search);
+      const urlvar = params.get('urlvar') || 'url parameter tidak diisi';
+      document.getElementById('konten').innerHTML = urlvar;
+    </script>
+  </body>
+</html>
