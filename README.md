@@ -24,4 +24,4 @@ document.getElementById('konten').innerHTML = urlvar;
 ```
 
 #### NOTE
-Karena masih malas merapikan, script masih embeded. Sebaiknya di pisah untuk keamanan. Cuma karena ini running locally ya sudahlah ya gak apa apa.
+Karena masih malas merapikan, script masih embeded. Sebaiknya di pisah untuk keamanan. Cuma karena ini running locally ya sudahlah ya gak apa-apa.
