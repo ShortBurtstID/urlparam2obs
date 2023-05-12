@@ -6,7 +6,7 @@ OBS overlay output dari channel point reward di Twitch dalam bentuk HTML.
 Overlay text output dengan menggunakan GDIText memiliki batasan sejauh apa efek yang ingin kita tambahkan. Dengan menggunakan Browser Source kita dapat memanipulasi html tag dengan CSS.
 
 ### HOW
-Menggunak variable dari ```streamer.bot``` atau bot lainnya untuk mendapatkan text input user saat redeem channel point reward. Misalnya ```%rawInput%``` dengan menggunakan URL Parameter sehingga berbentuk seperti ini:
+Menggunakan variable dari ```streamer.bot``` atau bot lainnya untuk mendapatkan text input user saat redeem channel point reward. Misalnya ```%rawInput%``` dengan menggunakan URL Parameter sehingga berbentuk seperti ini:
 
 ```
 index.html?urlvar=%rawinput%
