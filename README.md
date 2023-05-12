@@ -5,7 +5,7 @@ OBS overlay output dari channel point reward di Twitch dalam bentuk HTML.
 ### WHY
 Overlay text output dengan menggunakan GDIText memiliki batasan sejauh apa efek yang ingin kita tambahkan. Dengan menggunakan Browser Source kita dapat memanipulasi html tag dengan CSS.
 
-![Screenshot](screenshot.png)Screenshot .png
+![Screenshot](screenshot.png)
 Text ini menggunakan efek dari CSS, text berasal dari variabel ```%rawInput%```
 
 ### HOW
