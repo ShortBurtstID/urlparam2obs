@@ -12,7 +12,7 @@ Menggunak variable dari ```streamer.bot``` atau bot lainnya untuk mendapatkan te
 index.html?urlvar=%rawinput%
 ```
 
-Dan dari variable ```%rawInput%``` di jadikan text HTML dengan javasript sebagai berikut:
+Dan dari variable ```%rawInput%``` di jadikan text HTML dengan javascript sebagai berikut:
 
 ```
 const params = new URLSearchParams(window.location.search);
